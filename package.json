@@ -1,0 +1,13 @@
+{
+  "name": "websockets-fsfe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
